@@ -1,20 +1,40 @@
-Отчёт по практике №1
 
-Программирование корпоративных систем
+<p align="center">
+  <img src="https://www.mirea.ru/upload/medialibrary/c1a/MIREA_Gerb_Colour.jpg" alt="MIREA" width="80"/>
+  <img src="https://www.mirea.ru/upload/medialibrary/26c/FTI_colour.jpg" alt="IPTIP" width="137"/> 
+</p>
 
-Студент - Носков Владислав Олегович
+# PKS_2024_2025
+## Программирование корпоративных систем (часть 3/4) [I.24-25]
 
-Группа - ЭФБО-07-22
+---
 
-Шифр - 22Т0113
+**Студент:**  
+**Носков Владислав Олегович**  
 
-Преподаватель - Адышкин Сергей Сергеевич
+**Место обучения:**  
+**Москва, Институт РТУ МИРЭА**  
+**Факультет ИПТИП**  
+**Кафедра высшая математика 3**  
 
-Семестр - 5 семестр, 2024-2025 гг.
+**Направление:**  
+**Фулстек разработка**  
 
-<img width="1440" alt="Снимок экрана 2024-09-07 в 10 40 33" src="https://github.com/user-attachments/assets/15520596-d7df-4360-9d85-555d793d6b4f">
-<img width="1440" alt="Снимок экрана 2024-09-07 в 10 40 37" src="https://github.com/user-attachments/assets/d44f8189-7b90-4fe5-af84-949ce0176e63">
-<img width="1440" alt="Снимок экрана 2024-09-07 в 10 43 46" src="https://github.com/user-attachments/assets/be566d15-c747-470d-b330-9ae6e57cac12">
-<img width="1440" alt="Снимок экрана 2024-09-07 в 10 44 01" src="https://github.com/user-attachments/assets/2485ade1-58e6-41cb-a661-bc175b5f768f">
-<img width="1440" alt="Снимок экрана 2024-09-07 в 10 45 13" src="https://github.com/user-attachments/assets/9a4a61f6-a0b7-492b-b806-b744060d3b85">
-<img width="1440" alt="Снимок экрана 2024-09-07 в 10 46 23" src="https://github.com/user-attachments/assets/1a9b43b9-13ab-46cb-bf04-46a66d3f8f72">
+**Группа:**  
+**ЭФБО-07-22**  
+
+**Шифр:**  
+**22Т0113**  
+
+**Преподаватель:**  
+**Адышкин Сергей Сергеевич**  
+
+**Семестр:**  
+**5 семестр, 2024-2025 гг.**
+
+---
+
+
+
+**Носков Владислав Олегович**  
+**Москва, Институт РТУ МИРЭА** 
