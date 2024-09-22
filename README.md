@@ -1,42 +1,22 @@
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/d517035a-f575-4729-9586-5b3839b9ce2b">Отчёт по практике №3
 
-<p align="center">
-  <img src="https://www.mirea.ru/upload/medialibrary/c1a/MIREA_Gerb_Colour.jpg" alt="MIREA" width="80"/>
-  <img src="https://www.mirea.ru/upload/medialibrary/26c/FTI_colour.jpg" alt="IPTIP" width="137"/> 
-</p>
+Программирование корпоративных систем
 
-# PKS_2024_2025
-## Программирование корпоративных систем (часть 3/4) [I.24-25]
+Студент - Носков Владислав Олегович
 
----
+Группа - ЭФБО-07-22
 
-**Студент:**  
-**Носков Владислав Олегович**  
+Шифр - 22Т0113
 
-**Место обучения:**  
-**Москва, Институт РТУ МИРЭА**  
-**Факультет ИПТИП**  
-**Кафедра высшая математика 3**  
+Преподаватель - Адышкин Сергей Сергеевич
 
-**Направление:**  
-**Фулстек разработка**  
+Семестр - 5 семестр, 2024-2025 гг.
 
-**Группа:**  
-**ЭФБО-07-22**  
+Chrome
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/2d77b3d4-be41-473e-a06d-b854e7046a00">
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/75cec9bd-1575-46e8-9153-d0a8d87930a3">
 
-**Шифр:**  
-**22Т0113**  
-
-**Преподаватель:**  
-**Адышкин Сергей Сергеевич**  
-
-**Семестр:**  
-**5 семестр, 2024-2025 гг.**
-
----
-
-[Практическое занятия №1](https://github.com/vladnoskoff/PKS24-25/tree/PC1)
-
-[Практическое занятия №2](https://github.com/vladnoskoff/PKS24-25/tree/PC2)
-  
-**Носков Владислав Олегович**  
-**Москва, Институт РТУ МИРЭА** 
+IOS
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/b5f2a4b7-7b25-4858-820b-71f85f9ff93d">
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/ed373c84-24d4-45b0-9c2f-15c95437c5c1">
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/792790e5-276a-420c-96e7-f83930f23b48">
