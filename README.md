@@ -1,4 +1,4 @@
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/d517035a-f575-4729-9586-5b3839b9ce2b">Отчёт по практике №3
+Отчёт по практике №3
 
 Программирование корпоративных систем
 
