@@ -37,6 +37,8 @@
 [Практическое занятия №1](https://github.com/vladnoskoff/PKS24-25/tree/PC1)
 
 [Практическое занятия №2](https://github.com/vladnoskoff/PKS24-25/tree/PC2)
+
+[Практическое занятия №3](https://github.com/vladnoskoff/PKS24-25/tree/PC3)
   
 **Носков Владислав Олегович**  
 **Москва, Институт РТУ МИРЭА** 
