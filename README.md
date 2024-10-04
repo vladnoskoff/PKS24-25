@@ -33,16 +33,26 @@
 **5 семестр, 2024-2025 гг.**
 
 ---
+# Структура репозитория
+| Номер<br>Практики | Оценка | Ссылка на ветку |
+|:---:|:---:|---|
+| 1 | 5 | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC1) |
+| 2 | 5 | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC2) |
+| 3 | 5 | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC3) |
+| 4 | X | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC4) |
+| 5 | X | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC5) |
+| 6 | X | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC6) |
+| 7 | X | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC7) |
+| 8 | X | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC8) |
+| 9 | X | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC9) |
+| 10 | X | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC10) |
+| 11 | X | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC11) |
+| 12 | X | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC12) |
+| 13 | X | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC13) |
+| 14 | X | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC14) |
+| 15 | X | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC15) |
+| 16 | X | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC16) |
 
-[Практическое занятия №1](https://github.com/vladnoskoff/PKS24-25/tree/PC1)
-
-[Практическое занятия №2](https://github.com/vladnoskoff/PKS24-25/tree/PC2)
-
-[Практическое занятия №3](https://github.com/vladnoskoff/PKS24-25/tree/PC3)
-
-[Практическое занятия №4](https://github.com/vladnoskoff/PKS24-25/tree/PC4)
-
-[Практическое занятия №5](https://github.com/vladnoskoff/PKS24-25/tree/PC5)
   
 **Носков Владислав Олегович**  
 **Москва, Институт РТУ МИРЭА** 
