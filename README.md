@@ -13,3 +13,7 @@
 Семестр - 5 семестр, 2024-2025 гг.
 
 IOS
+
+
+https://github.com/user-attachments/assets/e8621e7b-1322-45d2-afae-9bb417b51617
+
