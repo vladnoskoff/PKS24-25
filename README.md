@@ -39,9 +39,9 @@
 | 1 | 5 | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC1) |
 | 2 | 5 | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC2) |
 | 3 | 5 | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC3) |
-| 4 | X | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC4) |
-| 5 | X | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC5) |
-| 6 | X | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC6) |
+| 4 | 5 | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC4) |
+| 5 | 5 | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC5) |
+| 6 | 5 | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC6) |
 | 7 | X | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC7) |
 | 8 | X | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC8) |
 | 9 | X | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC9) |
