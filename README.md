@@ -42,7 +42,7 @@
 | 4 | 5 | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC4) |
 | 5 | 5 | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC5) |
 | 6 | 5 | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC6) |
-| 7 | X | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC7) |
+| 7 | 4 | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC7) |
 | 8 | X | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC8) |
 | 9 | X | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC9) |
 | 10 | X | [Ссылка на ветку](https://github.com/vladnoskoff/PKS24-25/tree/PC10) |
